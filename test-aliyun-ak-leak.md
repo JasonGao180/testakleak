@@ -1,7 +1,7 @@
 # jasongao@aliyun.com accesskey
 
-AccessKeyId = LTAI4GH5V9UuG5gVF23onvvt
-AccessKeySecret = 2GsXrqR2gLmoZEHMd1VCUFE4zM1VrM
+AccessKeyId = LTAI4G6ZTRqJUwokqthqNJQg
+AccessKeySecret = cVMGFaV5qpqsZbxuvogCbt5X5Xx4Ln
 
 
 
